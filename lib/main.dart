@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'pages/settings.dart';
-import 'pages/report.dart';
-import 'pages/statistics.dart';
-import 'pages/introduce.dart';
+import 'settings.dart';
+import 'report.dart';
+import 'statistics.dart';
+import 'introduce.dart';
 
 void main() {
   runApp(MaterialApp(
